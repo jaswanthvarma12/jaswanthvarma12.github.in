@@ -9,9 +9,9 @@ h1{
 p {
   background-color: #bfbfbf;
   border: 2px solid black;
-  height: 150px;
+  height: 162px;
   margin-right: 10px;
-  padding: 40px 10px 5px 10px;
+  padding: 40px 10px 6px 10px;
   overflow: hidden;
 }
 
@@ -22,13 +22,13 @@ p {
 }
 
 #p1 {
-  background-color: #D59898;
+  background-color: #D59823;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
-  width: 120px;
+  height: 51px;
+  width: 193px;
   padding: 10px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -41,8 +41,8 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
-  width: 120px;
+  height: 50px;
+  width: 198px;
   padding: 10px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -54,8 +54,8 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
-  width: 120px;
+  height: 50px;
+  width: 198px;
   padding: 10px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -64,7 +64,7 @@ p {
 
 
 .row {
-  width: 100%;
+  width: 129%;
 
 }
 
@@ -75,38 +75,38 @@ p {
     float: left;
   }
   .col-lg-1 {
-    width: 8.33%;
+    width: 9.93%;
   }
   .col-lg-2 {
-    width: 16.66%;
+    width: 19.86%;
   }
   .col-lg-3 {
-    width: 25%;
+    width: 24.72%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 32.13%;
   
   }
   .col-lg-5 {
-    width: 41.66%;
+    width: 42.16%;
   }
   .col-lg-6 {
-    width: 50%;
+    width: 54.91%;
   }
   .col-lg-7 {
-    width: 58.33%;
+    width: 61.12%;
   }
   .col-lg-8 {
-    width: 66.66%;
+    width: 62.96%;
   }
   .col-lg-9 {
-    width: 74.99%;
+    width: 72.49%;
   }
   .col-lg-10 {
-    width: 83.33%;
+    width: 84.23%;
   }
   .col-lg-11 {
-    width: 91.66%;
+    width: 95.14%;
   }
   .col-lg-12 {
     width: 100%;
